@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    " # ",
+    "I#I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "tutorialmod:ruby"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+      }
+    },
+  "result": {
+    "item": "tutorialmod:ruby_pickaxe"
+    }
+  }

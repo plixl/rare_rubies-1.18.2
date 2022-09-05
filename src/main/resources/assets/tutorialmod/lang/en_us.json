@@ -1,0 +1,12 @@
+{
+  "item.tutorialmod.ruby": "Ruby",
+  "item.tutorialmod.ruby_axe": "Ruby Axe",
+  "item.tutorialmod.ruby_sword": "Ruby Sword",
+  "item.tutorialmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.tutorialmod.ruby_shovel": "Ruby Shovel",
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.ruby_ore_deepslate": "Deepslate Ruby Ore",
+  "block.tutorialmod.ruby_block": "Ruby Block",
+  "item.tutorialmod.ruby_hoe": "Ruby Hoe",
+  "itemGroup.tutorialmod": "Ruby Items"
+}

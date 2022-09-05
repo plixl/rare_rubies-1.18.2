@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:grove": "2022-09-05 17:20:22 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

@@ -1,2 +1,2 @@
 # Rare Rubies 
-## Adds Ruby Items to Minecraft
+## Adds Rubies to Minecraft

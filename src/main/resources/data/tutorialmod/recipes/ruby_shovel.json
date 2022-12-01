@@ -12,14 +12,11 @@
     "X": {
       "item": "tutorialmod:ruby"
     },
-    "I": {
-      "item": "minecraft:iron_ingot"
-    },
     "G": {
       "item": "minecraft:gold_ingot"
-      }
-    },
-    "result": {
-      "item": "tutorialmod:ruby_shovel"
     }
+  },
+  "result": {
+    "item": "tutorialmod:ruby_shovel"
   }
+}

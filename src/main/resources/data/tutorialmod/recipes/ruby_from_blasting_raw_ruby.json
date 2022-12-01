@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "ruby",
+  "ingredient": {
+    "item": "tutorialmod:raw_ruby"
+  },
+  "result": "tutorialmod:ruby",
+  "experience": 0.7,
+  "cookingtime": 100
+}
